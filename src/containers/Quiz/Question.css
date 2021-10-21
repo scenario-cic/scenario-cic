@@ -1,0 +1,10 @@
+.Content h1{
+    padding-right: 15%;
+    transition: 0.9s 0.8s ease-in-out;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2.5rem 8%;
+    font-size: 0.95rem;
+    padding: 0.7rem 0;
+}
