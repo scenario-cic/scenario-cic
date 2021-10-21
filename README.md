@@ -38,8 +38,8 @@ This will push the changes and the cognito setup in aws console
 
 ## API update
 Update the api to the `api` file in the `constant`
-### `GETURL---> getrecommendation`
-### `POSTURL ----> createrecommendation`
+### `GETURL---> https://{restapi_id}.execute-api.{region}.amazonaws.com/prod/getRecommendations`
+### `POSTURL ----> https://{restapi_id}.execute-api.{region}.amazonaws.com/prod/createRecommendations`
 
 
 
